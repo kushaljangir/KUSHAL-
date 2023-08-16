@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-color: #f3eeee;
+    background-color: #fcfcfc;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -125,9 +125,9 @@ main{
 }
 .clouds2{
     background-image: url(bg-header-bottom.png);
-    transform: rotate(180deg);
+    transform: rotate(0deg);
     background-repeat: repeat-x;
-    margin-top: -22px;
+    margin-top: -39px;
 
 }
 .school{
