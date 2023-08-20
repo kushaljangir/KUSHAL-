@@ -3,19 +3,10 @@
     padding: 0;
 }
 body{
-    background-color: #fcfcfc;
+    background-color: #f3eeee;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-}
-#select{
-    border-color: transparent;
-}
-.clouds3{
-    background-image: url(bg-header-bottom.png);
-    transform: rotate(0deg);
-    background-repeat: repeat-x;
-    margin-top: 19px;
 }
 
 .hader{
@@ -24,10 +15,9 @@ body{
     background-color: rgb(255, 253, 253);
 }
 .about{
-    background-color: #0b90dd;
     margin-top: -291px;
     margin-left: 117px;
-    width: 200px;
+    width: 500px;
     height: 200px;
 }
 .lin{
@@ -54,7 +44,6 @@ body{
 .about a:hover{
     color: #b35a46;
 }
-
 .carouls h3{
     margin-top: 50px;
     margin-left: 50px;
@@ -65,7 +54,7 @@ body{
 .carouls img{
     margin-top: -7px;
 
-    width: 1266px;
+    width: 1390px;
     height: 307px;
 
 }
@@ -180,9 +169,9 @@ main{
 }
 .clouds2{
     background-image: url(bg-header-bottom.png);
-    transform: rotate(0deg);
+    transform: rotate(180deg);
     background-repeat: repeat-x;
-    margin-top: -39px;
+    margin-top: -22px;
 
 }
 .school{
@@ -912,7 +901,7 @@ main{
    color: rgb(42, 51, 63);
 }
 .team{
-    margin-left: -254px;
+    margin-left: 20px;
     width: 200px;
     height: 400px;
     background-color:transparent;
@@ -921,6 +910,10 @@ main{
 .team1 img{
     width: 250px;
     margin-left: 5px;
+    background-color:transparent;
+    border-radius: 50%;
+   
+
 }
 .icon{
     margin-left: 216px;
@@ -959,7 +952,7 @@ main{
 }
 .team2{
     margin-top: -340px;
-    margin-left: 194px;
+    margin-left: 500px;
     width: 200px;
     height: 400px;
     background-color:transparent;
@@ -969,6 +962,8 @@ main{
     margin-top: -33px;
     margin-left: -27px;
     width: 250px;
+    background-color:transparent;
+    border-radius: 50%;
    
 }
 .icon1{
@@ -1018,6 +1013,8 @@ main{
     width: 250px;
     margin-left: -76px;
     margin-top: 20px;
+    background-color:transparent;
+    border-radius: 50%;
 }
 .icon2{
     margin-left: 135px;
@@ -1074,7 +1071,7 @@ main{
    color: rgb(42, 51, 63);
 }
 .footer{
-    margin-left: -461px;
+    margin-right: -471px;
     align-items: center;
     width: 1265px;
     height: 450px;
@@ -1245,7 +1242,6 @@ main{
     border-radius: 10px;
     text-align:left;
     border: 1px solid white;
-    background-color: transparent;
     position: relative;
 }
 .newsletter button{
